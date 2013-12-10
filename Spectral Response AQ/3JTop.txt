@@ -1,0 +1,9 @@
+﻿startWavelength,400
+endWavelength,900
+step,1
+LIAChannel,0
+biasBox,false
+deviceBias,1
+lightBias1,1
+lightBias2,1
+lightBias3,1

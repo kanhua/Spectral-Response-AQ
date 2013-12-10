@@ -1,0 +1,140 @@
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Spectral Response AQ.exe.config
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\20110916ref_REF.TXT
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Newport 818-UV.CAL
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\testfile.csv
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\benhw32_cdecl.dll
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\benhw64_cdecl.dll
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\IEEE_32M.dll
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\system.atr
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\system.cfg
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\system0.cfg
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\818-IR-L_calibration_report.csv
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\defaultLIASetting.xml
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\defaultMCSetting.xml
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Spectral Response AQ.exe.manifest
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Spectral Response AQ.application
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Spectral Response AQ.exe
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Spectral Response AQ.pdb
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Data Processing Utility.dll
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\GraphUtility.dll
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\NationalInstruments.Common.dll
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\NationalInstruments.VisaNS.dll
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Data Processing Utility.pdb
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\GraphUtility.pdb
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\GraphUtility.xml
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\NationalInstruments.Common.xml
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\NationalInstruments.VisaNS.xml
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.calcReflectivityForm.resources
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.deviceStatusForm.resources
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.plotForm.resources
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.multiRecipeEditorForm.resources
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.quickScanForm.resources
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.scanSettingForm.resources
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.selectQERefFileForm.resources
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.singleRecipeForm.resources
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.mainForm.resources
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.settingsForm.resources
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.VISASessionForm.resources
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.ManualControlForm.resources
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.Properties.Resources.resources
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral Response AQ.exe.manifest
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral Response AQ.application
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral Response AQ.exe
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral Response AQ.pdb
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Spectral Response AQ.exe.config
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral Response AQ.exe
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral Response AQ.pdb
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\20110916ref_REF.TXT
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Newport 818-UV.CAL
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\testfile.csv
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\benhw32_cdecl.dll
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\benhw64_cdecl.dll
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\IEEE_32M.dll
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\system.cfg
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\system0.cfg
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\818-IR-L_calibration_report.csv
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\defaultLIASetting.xml
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\defaultMCSetting.xml
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Spectral Response AQ.exe.manifest
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Spectral Response AQ.application
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Spectral Response AQ.exe
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Spectral Response AQ.pdb
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Data Processing Utility.dll
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\GraphUtility.dll
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Data Processing Utility.pdb
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\GraphUtility.pdb
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\GraphUtility.xml
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\ResolveAssemblyReference.cache
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.calcReflectivityForm.resources
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.deviceStatusForm.resources
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.plotForm.resources
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.multiRecipeEditorForm.resources
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.quickScanForm.resources
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.scanSettingForm.resources
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.selectQERefFileForm.resources
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.singleRecipeForm.resources
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.mainForm.resources
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.settingsForm.resources
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.VISASessionForm.resources
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.ManualControlForm.resources
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.Properties.Resources.resources
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\GenerateResource.read.1.tlog
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\GenerateResource.write.1.tlog
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral Response AQ.exe.manifest
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral Response AQ.application
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\system.atr
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.startUpSettingForm.resources
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\system_enableXeForAllRange.atr
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\system_enableXeForAllRange.atr
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.startUpSettingForm.resources
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.recipeScanForm.resources
+Z:\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.recipeScanForm.resources
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Spectral Response AQ.exe.config
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral Response AQ.exe
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral Response AQ.pdb
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral Response AQ.csprojResolveAssemblyReference.cache
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.calcReflectivityForm.resources
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.deviceStatusForm.resources
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.recipeScanForm.resources
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.startUpSettingForm.resources
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.plotForm.resources
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.multiRecipeEditorForm.resources
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.quickScanForm.resources
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.scanSettingForm.resources
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.selectQERefFileForm.resources
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.singleRecipeForm.resources
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.mainForm.resources
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.settingsForm.resources
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.VISASessionForm.resources
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.ManualControlForm.resources
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral_Response_AQ.Properties.Resources.resources
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral Response AQ.csproj.GenerateResource.Cache
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\20110916ref_REF.TXT
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Newport 818-UV.CAL
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\testfile.csv
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\benhw32_cdecl.dll
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\benhw64_cdecl.dll
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\IEEE_32M.dll
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\818-IR-L_calibration_report.csv
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\defaultLIASetting.xml
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\defaultMCSetting.xml
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\system.atr
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\system.cfg
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\system0.cfg
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\system_enableXeForAllRange.atr
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Spectral Response AQ.exe.manifest
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Spectral Response AQ.application
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Spectral Response AQ.exe
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Spectral Response AQ.pdb
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Data Processing Utility.dll
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\GraphUtility.dll
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\Data Processing Utility.pdb
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\GraphUtility.pdb
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\bin\Debug\GraphUtility.xml
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral Response AQ.exe.manifest
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Spectral Response AQ\obj\Debug\Spectral Response AQ.application

@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9E1EE6E4-CDA9-4CD0-B066-E3B2D820A903}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Spectral_Response_AQ</RootNamespace>
+    <AssemblyName>Spectral Response AQ</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>\\vmware-host\Shared Folders\Lab Software 2011\Spectral Response AQ\Software Build Release\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>0.10.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>A1F626F35C6DC52BA12776E464A8BC81B1E1356F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Spectral Response AQ_2_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Spectral_Response_AQ.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NationalInstruments.Common, Version=9.1.40.163, Culture=neutral, PublicKeyToken=dc6ad606294fc298, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NationalInstruments.Common.Native, Version=9.1.40.163, Culture=neutral, PublicKeyToken=dc6ad606294fc298, processorArchitecture=x86">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NationalInstruments.NiLmClientDLL, Version=9.1.40.163, Culture=neutral, PublicKeyToken=dc6ad606294fc298, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NationalInstruments.VisaNS, Version=9.0.40.156, Culture=neutral, PublicKeyToken=dc6ad606294fc298, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="3JTop.txt" />
+    <None Include="AandScode.cs">
+      <SubType>Form</SubType>
+    </None>
+    <Compile Include="BenDLLDef.cs" />
+    <Compile Include="BenDLLMChromator.cs" />
+    <Compile Include="calcReflectivityForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calcReflectivityForm.Designer.cs">
+      <DependentUpon>calcReflectivityForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="deviceAbs.cs" />
+    <Compile Include="deviceStatusForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deviceStatusForm.Designer.cs">
+      <DependentUpon>deviceStatusForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="recipeScanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="recipeScanForm.Designer.cs">
+      <DependentUpon>recipeScanForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="startUpSettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="startUpSettingForm.Designer.cs">
+      <DependentUpon>startUpSettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HeaderInfo.cs" />
+    <Compile Include="MChromatorAbs.cs" />
+    <Compile Include="plotForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="plotForm.Designer.cs">
+      <DependentUpon>plotForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="multiRecipeEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="multiRecipeEditorForm.Designer.cs">
+      <DependentUpon>multiRecipeEditorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="quickScanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quickScanForm.Designer.cs">
+      <DependentUpon>quickScanForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="scanSettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="scanSettingForm.Designer.cs">
+      <DependentUpon>scanSettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="selectQERefFileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selectQERefFileForm.Designer.cs">
+      <DependentUpon>selectQERefFileForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="singleRecipeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="singleRecipeForm.Designer.cs">
+      <DependentUpon>singleRecipeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lockInAmp.cs" />
+    <Compile Include="QERecipe.cs" />
+    <Compile Include="VISASessionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISASessionForm.Designer.cs">
+      <DependentUpon>VISASessionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GPIBMotorMChromator.cs" />
+    <Compile Include="mainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainForm.Designer.cs">
+      <DependentUpon>mainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="settingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="settingsForm.Designer.cs">
+      <DependentUpon>settingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManualControlForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManualControlForm.Designer.cs">
+      <DependentUpon>ManualControlForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Content Include="benhw32_cdecl.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="benhw64_cdecl.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="defaultLIASetting.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="defaultMCSetting.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="IEEE_32M.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="calcReflectivityForm.resx">
+      <DependentUpon>calcReflectivityForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deviceStatusForm.resx">
+      <DependentUpon>deviceStatusForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="recipeScanForm.resx">
+      <DependentUpon>recipeScanForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="startUpSettingForm.resx">
+      <DependentUpon>startUpSettingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="plotForm.resx">
+      <DependentUpon>plotForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="multiRecipeEditorForm.resx">
+      <DependentUpon>multiRecipeEditorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="quickScanForm.resx">
+      <DependentUpon>quickScanForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="scanSettingForm.resx">
+      <DependentUpon>scanSettingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selectQERefFileForm.resx">
+      <DependentUpon>selectQERefFileForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="singleRecipeForm.resx">
+      <DependentUpon>singleRecipeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainForm.resx">
+      <DependentUpon>mainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="settingsForm.resx">
+      <DependentUpon>settingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISASessionForm.resx">
+      <DependentUpon>VISASessionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManualControlForm.resx">
+      <DependentUpon>ManualControlForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="818-IR-L_calibration_report.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="818-UV_calibration_report.csv" />
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="QErig.cs" />
+    <None Include="Spectral Response AQ_2_TemporaryKey.pfx" />
+    <Content Include="system.atr">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="system.cfg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="system0.cfg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="system_enableXe.atr" />
+    <Content Include="system_enableXeForAllRange.atr">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Data Processing Utility\Data Processing Utility.csproj">
+      <Project>{2124B630-AB40-41C7-9E72-4FED05C7EDD2}</Project>
+      <Name>Data Processing Utility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GraphUtility\GraphUtility.vbproj">
+      <Project>{D58768D1-4078-41DC-B796-BC9417AA173A}</Project>
+      <Name>GraphUtility</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="AandScode.cs">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="defaultLIASetting.xml">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="defaultMCSetting.xml">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

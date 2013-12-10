@@ -1,0 +1,22 @@
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\benhw32_cdecl.dll
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\benhw64_cdecl.dll
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\IEEE_32M.dll
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\818-IR-L_calibration_report.csv
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\defaultLIASetting.xml
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\defaultMCSetting.xml
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\system.atr
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\system.cfg
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\system0.cfg
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\system_enableXeForAllRange.atr
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\Spectral Response AQ.exe
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\Data Processing Utility.dll
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\GraphUtility.dll
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\Spectral Response AQ.pdb
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\Data Processing Utility.pdb
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\GraphUtility.pdb
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\bin\Debug\GraphUtility.xml
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\kl07\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\TestProject1\obj\Debug\TestProject1.pdb

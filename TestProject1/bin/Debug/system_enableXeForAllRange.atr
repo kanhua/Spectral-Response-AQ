@@ -1,0 +1,71 @@
+#------------------------------------------------------------------------------
+# Bentham Instruments system model attributes file
+# Created 21/05/2012 09:15:10
+# This file should NOT be edited by hand
+#------------------------------------------------------------------------------
+
+mchromator
+  cos alpha =  9.72700000000000E-0001
+  ZordSwitch SAM for turret,1 = -1
+end
+
+mchromatorTurret 1
+  grating,1 = 1200
+  minimum wavelength,1 = 250
+  maximum wavelength,1 = 1101
+  zord,1,1 = 8280
+  alpha,1,1 =  1.00000000000000E+0000
+  zord,1,2 = 0
+  alpha,1,2 =  0.00000000000000E+0000
+  grating,2 = 600
+  minimum wavelength,2 = 800
+  maximum wavelength,2 = 2501
+  zord,2,1 = 174755
+  alpha,2,1 =  1.00000000000000E+0000
+  zord,2,2 = 0
+  alpha,2,2 =  0.00000000000000E+0000
+  zord,3,1 = 0
+  alpha,3,1 =  1.00000000000000E+0000
+  zord,3,2 = 0
+  alpha,3,2 =  0.00000000000000E+0000
+  move current = 8
+  idle current = 8
+  settle time = 0
+end
+
+fwheel
+  settle time = 2000
+  position = 6
+  filter,1 =  0.00000000000000E+0000
+  filter,2 =  4.00000000000000E+0002
+  filter,3 =  7.00000000000000E+0002
+  filter,4 =  1.25000000000000E+0003
+  filter,5 =  2.00000000000000E+0003
+  filter,6 =  0.00000000000000E+0000
+  move at each wavelength = 1
+  filter park offset = 0
+end
+
+sam
+  settle time = 2000
+  settle time,1 = 500
+  initial state = 1
+  switch wavelength,1 =  2.00000000000000E+0003
+  state,1 = 0
+  state,0 = 1
+  deflect = Deflect
+  no deflect = No Deflection
+  move at each wavelength = 1
+end
+
+
+~System
+  dispersion multiplier = 0.000
+  stop count = 1.000
+  dark I integration time = 5.000
+  dark I delay = 5.000
+  225 277 input = 1
+  allow negative = -1
+  virtual instruments dll = 
+  group = ,,,,,,,,,,mchromator,
+end

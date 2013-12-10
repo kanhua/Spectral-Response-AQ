@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLockInAmp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <lockInAmp>
+    <VISAResourceName>USB0::0x0A2D::0x0027::11265268::RAW</VISAResourceName>
+    <deviceEnabled>false</deviceEnabled>
+    <sessionInitialised>true</sessionInitialised>
+    <deviceName>7230LIA</deviceName>
+    <currentLIAModel>SG7230</currentLIAModel>
+  </lockInAmp>
+  <lockInAmp>
+    <VISAResourceName>GPIB0::12::INSTR</VISAResourceName>
+    <deviceEnabled>false</deviceEnabled>
+    <sessionInitialised>true</sessionInitialised>
+    <deviceName>7265LIA</deviceName>
+    <currentLIAModel>SG7265</currentLIAModel>
+  </lockInAmp>
+</ArrayOfLockInAmp>

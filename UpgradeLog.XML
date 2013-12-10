@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Spectral Response AQ">
+</Property><Property Name="Solution File" Value="\\vmware-host\Shared Folders\C# Projects\Spectral Response AQ\Spectral Response AQ.sln">
+</Property><Property Name="Date" Value="Monday, September 05, 2011">
+</Property><Property Name="Time" Value="13:50:16 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\Graph.vbproj" Description="Project file successfully backed up as \\vmware-host\Shared Folders\C# Projects\Spectral Response AQ\Backup\Graph.vbproj">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\Form1.vb" Description="File successfully backed up as \\vmware-host\Shared Folders\C# Projects\Spectral Response AQ\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\Form1.Designer.vb" Description="File successfully backed up as \\vmware-host\Shared Folders\C# Projects\Spectral Response AQ\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\frmGraphEdit.designer.vb" Description="File successfully backed up as \\vmware-host\Shared Folders\C# Projects\Spectral Response AQ\Backup\frmGraphEdit.designer.vb">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\frmGraphEdit.vb" Description="File successfully backed up as \\vmware-host\Shared Folders\C# Projects\Spectral Response AQ\Backup\frmGraphEdit.vb">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\Graph.vb" Description="File successfully backed up as \\vmware-host\Shared Folders\C# Projects\Spectral Response AQ\Backup\Graph.vb">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\GraphBase.vb" Description="File successfully backed up as \\vmware-host\Shared Folders\C# Projects\Spectral Response AQ\Backup\GraphBase.vb">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\My Project\AssemblyInfo.vb" Description="File successfully backed up as \\vmware-host\Shared Folders\C# Projects\Spectral Response AQ\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\My Project\Application.Designer.vb" Description="File successfully backed up as \\vmware-host\Shared Folders\C# Projects\Spectral Response AQ\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\My Project\Resources.Designer.vb" Description="File successfully backed up as \\vmware-host\Shared Folders\C# Projects\Spectral Response AQ\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\My Project\Settings.Designer.vb" Description="File successfully backed up as \\vmware-host\Shared Folders\C# Projects\Spectral Response AQ\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\My Project\Application.myapp" Description="File successfully backed up as \\vmware-host\Shared Folders\C# Projects\Spectral Response AQ\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\My Project\Settings.settings" Description="File successfully backed up as \\vmware-host\Shared Folders\C# Projects\Spectral Response AQ\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\Form1.resx" Description="File successfully backed up as \\vmware-host\Shared Folders\C# Projects\Spectral Response AQ\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\frmGraphEdit.resx" Description="File successfully backed up as \\vmware-host\Shared Folders\C# Projects\Spectral Response AQ\Backup\frmGraphEdit.resx">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\My Project\Resources.resx" Description="File successfully backed up as \\vmware-host\Shared Folders\C# Projects\Spectral Response AQ\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\Graph.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Graph" Source="Graph\Graph\Graph.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\Graph.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

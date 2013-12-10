@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spectral Response AQ", "Spectral Response AQ\Spectral Response AQ.csproj", "{9E1EE6E4-CDA9-4CD0-B066-E3B2D820A903}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GraphUtility", "GraphUtility\GraphUtility.vbproj", "{D58768D1-4078-41DC-B796-BC9417AA173A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Processing Utility", "Data Processing Utility\Data Processing Utility.csproj", "{2124B630-AB40-41C7-9E72-4FED05C7EDD2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E4B8E7FC-88F2-4A5E-A24A-2B6CF4F975EA}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		Spectral Response AQ.vsmdi = Spectral Response AQ.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Spectral Response AQ.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E1EE6E4-CDA9-4CD0-B066-E3B2D820A903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1EE6E4-CDA9-4CD0-B066-E3B2D820A903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1EE6E4-CDA9-4CD0-B066-E3B2D820A903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1EE6E4-CDA9-4CD0-B066-E3B2D820A903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D58768D1-4078-41DC-B796-BC9417AA173A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58768D1-4078-41DC-B796-BC9417AA173A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58768D1-4078-41DC-B796-BC9417AA173A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58768D1-4078-41DC-B796-BC9417AA173A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2124B630-AB40-41C7-9E72-4FED05C7EDD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2124B630-AB40-41C7-9E72-4FED05C7EDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2124B630-AB40-41C7-9E72-4FED05C7EDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2124B630-AB40-41C7-9E72-4FED05C7EDD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
