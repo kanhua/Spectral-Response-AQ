@@ -44,6 +44,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -69,6 +70,9 @@
     <StartupObject>Spectral_Response_AQ.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="GraphUtility">
+      <HintPath>.\GraphUtility.dll</HintPath>
+    </Reference>
     <Reference Include="NationalInstruments.Common, Version=9.1.40.163, Culture=neutral, PublicKeyToken=dc6ad606294fc298, processorArchitecture=MSIL">
       <Private>True</Private>
     </Reference>
@@ -299,10 +303,6 @@
     <ProjectReference Include="..\Data Processing Utility\Data Processing Utility.csproj">
       <Project>{2124B630-AB40-41C7-9E72-4FED05C7EDD2}</Project>
       <Name>Data Processing Utility</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\GraphUtility\GraphUtility.vbproj">
-      <Project>{D58768D1-4078-41DC-B796-BC9417AA173A}</Project>
-      <Name>GraphUtility</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

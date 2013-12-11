@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="GraphUtility">
+      <HintPath>..\Spectral Response AQ\GraphUtility.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
@@ -68,12 +71,6 @@
     <EmbeddedResource Include="dataPlotForm.resx">
       <DependentUpon>dataPlotForm.cs</DependentUpon>
     </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\GraphUtility\GraphUtility.vbproj">
-      <Project>{D58768D1-4078-41DC-B796-BC9417AA173A}</Project>
-      <Name>GraphUtility</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

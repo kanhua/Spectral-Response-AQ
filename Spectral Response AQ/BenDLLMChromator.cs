@@ -10,6 +10,7 @@ namespace Spectral_Response_AQ
 {
     public partial class BenDLLMChromator:MChromatorAbs
     {
+
         [DllImport("benhw32_cdecl.dll", CallingConvention = CallingConvention.Cdecl)]
         static extern public int BI_build_system_model(StringBuilder configInput, StringBuilder error);
 

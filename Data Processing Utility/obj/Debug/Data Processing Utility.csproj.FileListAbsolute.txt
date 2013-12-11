@@ -72,3 +72,4 @@ C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Re
 C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Data Processing Utility\obj\Debug\Data Processing Utility.csproj.GenerateResource.Cache
 C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Data Processing Utility\obj\Debug\Data Processing Utility.dll
 C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Data Processing Utility\obj\Debug\Data Processing Utility.pdb
+C:\Users\Kan-Hua\Dropbox\Documents in Dropbox\PhD online\C# Projects\Spectral Response AQ\Data Processing Utility\obj\Debug\Data Processing Utility.csprojResolveAssemblyReference.cache
