@@ -23,4 +23,15 @@ Prerequisites for building the software
   - The .dll files that required to run TMc300 monochromator is already included in the project directory
   
   
+Common Errors when building the software
+========================================
 
+  - DLLs of NI libraries not found:  This usually occurs when National Instrument DLLs are updated to a newer version, or this visual stdio project is compiled at different versions of MS Windows. Here is the solution:
+    - Right-click "References" of "Spectal Response AQ" project in Solution Explorer
+    - Select "Add Reference"
+    - Select ".NET" tab
+    - Add the following references:
+    -   NationalInstruments.Common
+    -   NationalInstruments.Common.Native
+    -   NationalInstrument.NiLmClientDLL
+    -   NationalInstrument.VisaNS
