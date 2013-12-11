@@ -11,7 +11,7 @@ It currently supports
 
 
 Prerequisites for building the software
-==================================================
+=======================================
 
   - Visual studio 2010 or visual C# express 2010
   - .NET framework 4.0
@@ -31,7 +31,7 @@ Common Errors when building the software
     - Select "Add Reference"
     - Select ".NET" tab
     - Add the following references:
-    -   NationalInstruments.Common
-    -   NationalInstruments.Common.Native
-    -   NationalInstrument.NiLmClientDLL
-    -   NationalInstrument.VisaNS
+      - NationalInstruments.Common
+      - NationalInstruments.Common.Native
+      - NationalInstrument.NiLmClientDLL
+      - NationalInstrument.VisaNS
