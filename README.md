@@ -15,7 +15,7 @@ Prerequisites for building the software
 
   - Visual studio 2010 or visual C# express 2010
   - .NET framework 4.0
-  - only support 32-bit Windows OS, 
+  - Only support 32-bit system. (In Project properties->Build->Platform Target, select "x86" instead of "Any CPU")
   - National instrument NI488.2 driver (NI 488.2.3.x), with .NET 4.0 support
     (http://sine.ni.com/psp/app/doc/p/id/psp-356)
   - National instrument NI-VISA driver (v5.3 or v5.4), with .NET 4.0 support
